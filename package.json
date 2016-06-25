@@ -1,0 +1,21 @@
+{
+  "name": "@webdevkris/workspace",
+  "version": "1.0.2",
+  "description": "npm install -g how-to-npm how-to-npm",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebDevKris/npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebDevKris/npm/issues"
+  },
+  "homepage": "https://github.com/WebDevKris/npm#readme"
+}
